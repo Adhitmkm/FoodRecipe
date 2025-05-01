@@ -1,0 +1,37 @@
+# React-specific ignores
+/node_modules
+/.cache
+/build
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+.DS_Store
+coverage
+.idea
+.vscode
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+*.log
+logs
+.cache
+dist
+out
+.next
+.parcel-cache
+.vercel
+.turbo
+.typescript
+.eslintcache
+*.tsbuildinfo 
+
+# Node.js (for frontend/backend using npm)
+node_modules/
+npm-debug.log
+dist/
+build/
+.env
+.env.local
+.DS_Store
